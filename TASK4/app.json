@@ -1,0 +1,9 @@
+// public/data.json
+
+{
+  "stock": [
+    { "id": 1, "name": "Product 1", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": 20 },
+    { "id": 2, "name": "Product 2", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": 30 },
+    { "id": 3, "name": "Product 3", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "price": 25 }
+  ]
+}
