@@ -1,0 +1,23 @@
+body {
+    padding-top: 56px;
+}
+
+/* Custom styles */
+.stock-item {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.stock-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive navbar */
+@media (max-width: 768px) {
+    body {
+        padding-top: 0;
+    }
+}
